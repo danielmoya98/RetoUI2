@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BotonEstilo">
+        <item name="android:background">@drawable/boton_degradado</item>
+    </style>
+
+</resources>
